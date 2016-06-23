@@ -1,2 +1,2 @@
 # RootFW
-WiiU CFW
+Set your Machine free
